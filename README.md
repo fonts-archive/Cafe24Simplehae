@@ -15,7 +15,7 @@ font-family: 'Cafe24 Simplehae';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Simplehae/Cafe24Simplehae.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Simplehae/Cafe24Simplehae.css" type="text/css"/>
 ```
 
 &nbsp;
